@@ -1,0 +1,1 @@
+I will be comparing the performance of Choropleth and hexbin maps. In politics media usually uses choropleths to visualize information across states like voting percentage, population, age distribution and so on. The goal of my project is test if hexbin mapping could be an alternative visualization.
