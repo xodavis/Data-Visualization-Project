@@ -1,1 +1,13 @@
 theme: jekyll-theme-tactile
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Choropleth vs Hexbin</title>
+        <script type="text/javascript" src="d3.js"></script>
+    </head>
+    <body>
+    	<h1>Choropleth vs Hexbin maps</h1>
+    	<h2>Xo Davis</h2>
+    	<p>I will be comparing the performance of Choropleth and hexbin maps. In politics media usually uses choropleths to visualize information across states like voting percentage, population, age distribution and so on. The goal of my project is test if hexbin mapping could be an alternative visualization.</p>
+    </body>
+</html>
